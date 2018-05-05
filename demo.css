@@ -1,0 +1,11 @@
+h2{
+float: left;
+}
+h3{
+    float: right;
+}
+div{
+    height: 400px;
+    width: 400px;
+    border: solid;
+}

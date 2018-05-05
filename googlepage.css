@@ -1,0 +1,56 @@
+
+
+div{
+    align: center;
+    margin-top: 300px;
+}
+form{
+    width: 40%;
+    height: 5%;
+    
+    float: center;
+}
+p{
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+div{
+    margin-top: 150px;
+}
+.test{
+    height: 35px;
+    width: 120px;
+    margin: 20px;
+}
+.text{
+    font-size: 15px;
+}
+#place{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/300px-Google_mic.svg.png) no-repeat scroll 520px 7px;
+    background-size: 15px;
+    padding: 10px;
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+li{
+    float: right;
+    padding: 10px;
+    font-size: 15px;
+}
+li a{
+    display: inline-list-item;
+
+}
+a{
+    text-decoration: none;
+}
